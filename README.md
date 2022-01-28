@@ -40,11 +40,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://github.com/KavinduShamalka"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sithum%20ravishka%20753619211-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sithum_ravishka/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sithum_ravishka__-blue?style=flat-square&logo=instagram"></a>
-<a href="sithumravishka1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sithumravishka1@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.facebook.com/people/Sithum-Ravishka/100008639329023/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sithum%20Ravishka%20100008639329023/-blue?style=flat-square&logo=Facebook"></a>
-</p>
